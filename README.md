@@ -3,6 +3,11 @@ Here's a README file for your Bing Streamer project, which is a video streaming 
 📺 Bing Streamer
 🚀 A modern video streaming application built using React.js and the YouTube API. Users can browse and watch trending YouTube videos directly within the app.
 
+![Image](https://github.com/user-attachments/assets/f9e2b5bd-9008-453c-866b-843c346bb409)
+
+![Image](https://github.com/user-attachments/assets/efceca77-c51b-407c-a7e5-5f6fdc5ab1d5)
+
+
 🌟 Features
 ✅ Fetches and displays trending YouTube videos using the YouTube API
 ✅ Search functionality to find specific videos
