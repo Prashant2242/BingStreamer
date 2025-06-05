@@ -1,4 +1,7 @@
 Here's a README file for your Bing Streamer project, which is a video streaming app using the YouTube API, built with React.js and CSS, and structured with different components.
+
+
+
 Live Project link-[[bing-streamer-xe3d.vercel.app](https://bing-streamer-xe3d.vercel.app/)](url)
 📺 Bing Streamer
 🚀 A modern video streaming application built using React.js and the YouTube API. Users can browse and watch trending YouTube videos directly within the app.
