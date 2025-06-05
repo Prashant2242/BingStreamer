@@ -1,4 +1,4 @@
-import './Sidebar.css';
+import './sidebar.css';
 import home from '../../asset/home.png'
 import game_icon from '../../asset/game_icon.png'
 import automobiles from '../../asset/automobiles.png'
